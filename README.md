@@ -1,2 +1,2 @@
 # family-medicine
-Мобильное приложение для управления семейной аптечкой. Выполнено в рамках выпускной квалификационной работы
+<img width="1400" height="8096" alt="case2" src="https://github.com/user-attachments/assets/d74fd38c-0b44-4b5f-ad9f-08881b5ade68" />
