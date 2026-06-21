@@ -1,0 +1,87 @@
+name: family_medicine
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  provider: ^6.1.2
+
+  # Firebase
+  firebase_core: ^4.6.0
+  firebase_auth: ^6.3.0
+  cloud_firestore: ^6.2.0
+
+  timezone: ^0.11.0
+  path_provider: ^2.1.5
+  connectivity_plus: ^7.1.1
+
+  # Локальные уведомления
+  flutter_local_notifications: ^21.0.0
+
+  # UI
+  smooth_page_indicator: ^1.1.0
+  qr_flutter: ^4.0.0
+  mobile_scanner: ^3.2.0
+  flutter_launcher_icons: ^0.14.4
+
+  # Хранение данных
+  shared_preferences: ^2.2.2
+
+  # Форматирование
+  intl: ^0.20.2
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^8.0.0
+  mask_text_input_formatter: ^2.9.0
+  awesome_bottom_bar: ^1.2.4
+  loading_animation_widget: ^1.3.0
+  permission_handler: ^12.0.1
+  alphabet_search_view: ^2.0.0
+  file_picker: ^10.3.10
+  fl_chart: ^1.2.0
+  pdf: ^3.12.0
+  share_plus: ^12.0.2
+  url_launcher: ^6.3.2
+  table_calendar: ^3.1.3
+  flutter_localization: ^0.4.0
+  printing: ^5.14.3
+  flutter_svg: ^2.3.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon_app.png"
+  adaptive_icon_background: "#5F4AE7"
+  adaptive_icon_foreground: "assets/icon/icon_app.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  mocktail: ^1.0.4
+  fake_cloud_firestore: ^4.1.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/onboarding/1.jpg
+    - assets/onboarding/2.jpg
+    - assets/onboarding/3.jpg
+    - assets/onboarding/4.jpg
+    - assets/icon/icon_app.png
+    - assets/avatars/
+    - assets/icons/
+    - assets/fonts/Inter_18pt-Regular.ttf
+    - assets/fonts/Inter_24pt-Bold.ttf

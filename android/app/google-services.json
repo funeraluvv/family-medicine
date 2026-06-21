@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917025588783",
+    "project_id": "family-medicine-d5cac",
+    "storage_bucket": "family-medicine-d5cac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917025588783:android:7d3967bf365145e5a4a8da",
+        "android_client_info": {
+          "package_name": "com.example.family_medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkd6Lij5KbPHjdJnaKBhc0e5ee6pUp5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
